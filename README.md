@@ -1,5 +1,5 @@
 # Boids Simulation  
-[Live Preview](https://ishanmanchanda.github.io/Boids/) (Best viewed on laptop/desktop)  
+[Live Preview](https://viveksharma2525.github.io/Boids-p5.js/) (Best viewed on laptop/desktop)  
 
 This project is inspired by *The Coding Train's* Boids coding challenge on YouTube. It recreates Craig Reynolds' Boids model using p5.js, demonstrating emergent flocking behavior of bird-like agents called Boids.  
 
