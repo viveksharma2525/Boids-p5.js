@@ -1,0 +1,8 @@
+screen sizes.text
+
+
+#Intellij project files
+.idea
+%.iml
+out 
+gen
